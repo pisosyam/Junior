@@ -1,3 +1,4 @@
 # Junior
-The BEST PROJECT IN OUR WORLD
-Using only scikit-image
+Только русский язык в текстовых файлах
+Используем только scikit-image
+Проверяем иногда цели (Targets)
